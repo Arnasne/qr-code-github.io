@@ -17,5 +17,5 @@ You can see this project live at https://arnasne.github.io/qr-code-github.io
 
 ## Author
 
-- Website - (https://arnasne.github.io)
+- Website - https://arnasne.github.io
 - Frontend Mentor - [@Arnasne](https://www.frontendmentor.io/profile/Arnasne)
